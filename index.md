@@ -1,13 +1,11 @@
-# DefectDojo Documentation
-
-## About DefectDojo
-### What is Defect Dojo?
+# About DefectDojo
+## What is Defect Dojo?
 DefectDojo is a security tool that automates application security vulnerability management. DefectDojo streamlines the application security testing process by offering features such as importing third party security findings, merging and de-duping, integration with Jira, templating, report generation and security metrics.
 
-### What does DefectDojo do?
+## What does DefectDojo do?
 While traceability and metrics are the ultimate end goal, DefectDojo is a bug tracker at its core. Taking advantage of DefectDojo’s Product:Engagement model, enables traceability among multiple projects and test cycles, and allows for fine-grained reporting.
 
-### How does DefectDojo work?
+## How does DefectDojo work?
 DefectDojo is based on a model that allows the ultimate flexibility in your test tracking needs.
 
 * Working in DefectDojo starts with a Product Type.
