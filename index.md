@@ -15,6 +15,12 @@ DefectDojo is based on a model that allows the ultimate flexibility in your test
 * Each Engagement can have one or more Tests.
 * Each Test can have one or more Findings.
 
+## More Information
+
+1. Usage
+2. Development
+3. FAQ
+
 ![Image](https://raw.githubusercontent.com/Apipia/DefectDojo.io/master/_images/DD-Hierarchy.png)
 
 The code is open source, and [available on github](https://github.com/rackerlabs/django-DefectDojo).
